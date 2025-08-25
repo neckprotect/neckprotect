@@ -2,6 +2,7 @@
 
 **Created by:**  
 [Vitaly Chait](https://github.com/VitalyChait) & [Franz Krekeler](https://github.com/franz101)
+
 ---
 
 ## What is NeckProtect?  
