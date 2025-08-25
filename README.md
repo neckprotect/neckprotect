@@ -1,8 +1,8 @@
 # NeckProtect  
 
 **Created by:**  
-- 🧑‍💻 [Vitaly Chait](https://github.com/VitalyChait)
-- 🧑‍💻 [Franz Krekeler](https://github.com/franz101) 
+- [Vitaly Chait](https://github.com/VitalyChait) 🧑‍💻
+- [Franz Krekeler](https://github.com/franz101) 🧑‍💻
 
 ---
 
