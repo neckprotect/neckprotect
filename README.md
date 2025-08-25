@@ -23,13 +23,14 @@ NeckProtect only asks for the permissions it truly needs to work well. For examp
 - **Sensors** – to detect how you’re holding your phone.  
 - **Restart support** – to keep posture protection on after your phone restarts (optional).  
 - **Optional vibration** – a small buzz as a reminder if you choose.  
-- **Internet (basic use only)** – used only for fixing errors and improving the app. No ads or tracking.  
+- **Internet (basic use only)** – used only for fixing errors and improving the app.  
 
 ---
 
 ## 🔒🛡️ Your privacy  
 - All posture detection happens **on your device**—nothing is sent elsewhere.  
-- The app has **no advertising**.  
+- The app has **no advertising** and is **free to use in the current versions**.  
+- Future updates may introduce new features or changes, which could affect pricing or ad policy.  
 - Error reports may be sent (anonymously) to help improve reliability, but you can turn this off in your settings.  
 
 ---
@@ -52,17 +53,21 @@ NeckProtect only asks for the permissions it truly needs to work well. For examp
 ---
 
 ## 🤝🌟 Contributors & Collaboration
-- We are looking for strong independt 
+This project is created and maintained by:  
+- [Vitaly Chait](https://github.com/VitalyChait) 🧑‍💻  
+- [Franz Krekeler](https://github.com/franz101) 🧑‍💻  
+
+We welcome new contributors! If you’d like to join, feel free to open an issue, suggest improvements, or submit a pull request.  
 
 ---
 
 ## ❓🤔 Need help?  
-If something doesn’t work as expected or you have suggestions, please visit the project page through the app’s **“Learn more”** link
-or 
-via our email at neckprotect@proton.me.
+If something doesn’t work as expected or you have suggestions, please visit the project page through the app’s **“Learn more”** link,  
+or contact us at **neckprotect@proton.me**.  
 
-**Created by:**  
-- [Vitaly Chait](https://github.com/VitalyChait) 🧑‍💻
-- [Franz Krekeler](https://github.com/franz101) 🧑‍💻
+---
+
+**✨ Note on availability**  
+NeckProtect is free to use in its current versions, with no ads or payment required. However, this may change in future releases as we continue to improve and expand the app.  
 
 ---
