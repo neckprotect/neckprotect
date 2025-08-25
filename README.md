@@ -2,7 +2,7 @@
 
 **Created by:**  
 - [Vitaly Chait](https://github.com/VitalyChait)  
-- [Franz Gusto](https://github.com/franz101)  
+- [Franz Krekeler](https://github.com/franz101)  
 
 ---
 
