@@ -19,7 +19,7 @@ NeckProtect is a simple app designed to help you avoid “tech neck”—the str
 
 ---
 
-## 📲🔑 Why it asks for permissions  
+## 🔒🔑 Why it asks for permissions  
 NeckProtect only asks for the permissions it truly needs to work well. For example:  
 - **Screen overlay** – to show the gentle color reminder.  
 - **Brightness control** – to let the app slightly dim the screen as a cue.  
