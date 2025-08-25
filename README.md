@@ -1,4 +1,5 @@
-# NeckProtect  
+# NeckProtect <img width="24" height="24" alt="quick_settings" src="https://github.com/user-attachments/assets/e1533ca2-6583-44dc-8d79-43ef5c345e61" />
+ 
 
 **Created by:**  
 - [Vitaly Chait](https://github.com/VitalyChait) 🧑‍💻
