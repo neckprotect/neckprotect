@@ -1,6 +1,5 @@
-# NeckProtect <img width="24" height="24" alt="quick_settings" src="https://github.com/user-attachments/assets/e1533ca2-6583-44dc-8d79-43ef5c345e61" />
+# NeckProtect
  
-
 **Created by:**  
 - [Vitaly Chait](https://github.com/VitalyChait) 🧑‍💻
 - [Franz Krekeler](https://github.com/franz101) 🧑‍💻
@@ -8,7 +7,9 @@
 ---
 
 ## 📱🦒 What is NeckProtect?  
-NeckProtect is a simple app designed to help you avoid “tech neck”—the strain that comes from looking down at your phone for too long. It gives you gentle reminders right on your screen when it senses your posture could be healthier. These reminders might be a slight dimming of your screen or a light color overlay, encouraging you to lift your phone a little higher.  
+NeckProtect is a simple app designed to help you avoid “tech neck”—the strain that comes from looking down at your phone for too long. It gives you gentle reminders right on your screen when it senses your posture could be healthier. These reminders might be a slight dimming of your screen or a light color overlay, encouraging you to lift your phone a little higher.
+
+<img width="1024" height="500" alt="feature_graphic_1024x500" src="https://github.com/user-attachments/assets/5f81fae8-8ad5-433a-8583-85b325654385" />
 
 ---
 
